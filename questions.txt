@@ -1,0 +1,24 @@
+basic
+
+1. retrieve all books in the 'fiction' genre 
+2. find books published after the year 1950
+3. list all customers from the Canada
+4. show orderds placed in November 2023
+5. retrieve the total stock of books available
+6. find the details of the most expensive book
+7. show all customer who ordered more than 1 quantity of a book
+8. retrieve all orders where the total amount exceeds $20
+9. list all generes available in the book table
+10. find the book with lowest stock
+11. calculate the total revenue generated from all orders
+
+Advanced 
+1. retrieve the total number of books sold for each genre
+2. find the average price of books in the "Fantasy" genre
+3. list customers who have placed at least 2 orders
+4. find the most frequently ordered book
+5. show the top most expensive books of 'fantasy' genre
+6. retrieve the total quantity of books soled by each author
+7. list the cities where customers who spend over $30 are location
+8 find the customer who spent the most on orders
+9. calculate the stock remaining after fulfilling all orders
